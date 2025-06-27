@@ -14,17 +14,6 @@ const Projects = () => {
       featured: true,
     },
     {
-      title: "Social Media Dashboard",
-      description:
-        "Analytics dashboard for social media management with data visualization, scheduling features, and multi-platform integration.",
-      image:
-        "src/components/assets/pfa.png",
-      technologies: ["Next.js", "Python", "MongoDB", "D3.js", "Redis"],
-      githubUrl: "#",
-      liveUrl: "#",
-      featured: true,
-    },
-    {
       title: "LLM Liver Cancer Chatbot",
       description:
         "An AI-powered chatbot designed to assist patients and healthcare professionals with information and guidance related to liver cancer. Utilizes large language models to provide accurate, empathetic, and up-to-date responses.",
