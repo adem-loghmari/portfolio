@@ -8,8 +8,7 @@ This is my personal portfolio website built with **React** and **Vite**. It show
 
 - ⚛️ **React** — Frontend framework
 - ⚡ **Vite** — Lightning-fast build tool
-- 🎨 **Tailwind CSS** — (Optional) Utility-first styling
-- 🌐 **Netlify / Vercel** — (Optional) Deployment
+- 🎨 **Tailwind CSS** —Utility-first styling
 
 ---
 
